@@ -1,0 +1,192 @@
+\begin{thebibliography}{10}
+
+\bibitem{bangash2026}
+A.~Bangash et~al.
+\newblock The state of the {SBOM} tool ecosystems: A comparative analysis of
+  {SPDX} and {CycloneDX}.
+\newblock arXiv preprint, 2026.
+
+\bibitem{bi2024}
+Tingting Bi, Boming Xia, Zhenchang Xing, Qinghua Lu, and Liming Zhu.
+\newblock On the way to {SBOM}s: Investigating design issues and solutions in
+  practice.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2024.
+
+\bibitem{bsi2025}
+{Bundesamt f{\"u}r Sicherheit in der Informationstechnik (BSI)}.
+\newblock Cyber resilience requirements for manufacturers and products --- part
+  2: Software bill of materials (tr-03183-2).
+\newblock Technical report, BSI, 2025.
+\newblock Technical guideline, version 2.1.0.
+
+\bibitem{churakova2025}
+Yekatierina Churakova, Mathias Ekstedt, and Larissa Schmid.
+\newblock Vexed by {VEX} tools: Consistency evaluation of container
+  vulnerability scanners.
+\newblock {\em arXiv preprint arXiv:2503.14388}, 2025.
+
+\bibitem{corti2025}
+Andrea Corti et~al.
+\newblock Mapping {CRA} and {NIS2} security requirements to open-source tooling
+  capabilities.
+\newblock In {\em Proceedings of the Requirements Engineering Workshop:
+  Requirements for Explainability and Verification (REW), co-located with ESPRE
+  2025}, 2025.
+
+\bibitem{cisa2025}
+{Cybersecurity and Infrastructure Security Agency (CISA)}.
+\newblock 2025 minimum elements for a software bill of materials ({SBOM}).
+\newblock Draft guidance for public comment, 2025.
+
+\bibitem{dagstuhl2024}
+{Dalla Preda, M. and Massacci, F. and others}.
+\newblock {EU Cyber Resilience Act: Socio-Technical and Research Challenges
+  (Dagstuhl Seminar 24112)}.
+\newblock Dagstuhl Reports, 2024.
+
+\bibitem{cra2024}
+{European Parliament and Council of the European Union}.
+\newblock Regulation (eu) 2024/2847 of the european parliament and of the
+  council on horizontal cybersecurity requirements for products with digital
+  elements (cyber resilience act).
+\newblock Official Journal of the European Union, L 2024/2847, 2024.
+
+\bibitem{halbritter2024}
+Andreas Halbritter and Dominik Merli.
+\newblock Accuracy evaluation of {SBOM} tools for web applications and
+  system-level software.
+\newblock In {\em Proceedings of the 19th International Conference on
+  Availability, Reliability and Security (ARES)}, 2024.
+
+\bibitem{muneza2025}
+Muhammed Muneza et~al.
+\newblock An empirical study of {SBOM} tool output quality and {NTIA}
+  compliance.
+\newblock In {\em Proceedings of the IEEE International Conference on Software
+  Analysis, Evolution and Reengineering -- Companion (SANER-C)}. IEEE, 2025.
+
+\bibitem{ntia2021}
+{National Telecommunications and Information Administration}.
+\newblock The minimum elements for a software bill of materials ({SBOM}).
+\newblock Technical report, U.S. Department of Commerce, 2021.
+
+\bibitem{nocera2025jss}
+Luciano Nocera et~al.
+\newblock An empirical study of {SBOM} adoption, completeness, and evolution in
+  open-source software.
+\newblock {\em Journal of Systems and Software (JSS)}, 2025.
+
+\bibitem{nocera2024icsme}
+Sabato Nocera, Simone Romano, Massimiliano Di~Penta, Rita Francese, and
+  Giuseppe Scanniello.
+\newblock If it's not {SBOM}, then what? how italian practitioners manage the
+  software supply chain.
+\newblock In {\em 2024 IEEE International Conference on Software Maintenance
+  and Evolution (ICSME)}. IEEE, 2024.
+
+\bibitem{novikov2025}
+Ivan Novikov et~al.
+\newblock A large-scale study of {SBOM} quality in policy-driven repositories.
+\newblock In {\em Proceedings of the 26th International Conference on
+  Product-Focused Software Process Improvement (PROFES)}. Springer, 2025.
+
+\bibitem{odonoghue2024}
+Ciaran O'Donoghue et~al.
+\newblock The impact of {SBOM} generation choices on downstream vulnerability
+  detection.
+\newblock In {\em Proceedings of the ACM Workshop on Software Supply Chain
+  Offensive Research and Ecosystem Defenses (SCORED), co-located with CCS
+  2024}. ACM, 2024.
+
+\bibitem{odonoghue2025slr}
+Eric O'Donoghue, Brittany Boles, Clemente Izurieta, and Ann~Marie Reinhold.
+\newblock Software bill of materials in software supply chain security: A
+  systematic literature review.
+\newblock arXiv preprint, 2025.
+
+\bibitem{rabbi2025}
+Md~Fazle Rabbi, Arifa~Islam Champa, Costain Nachuma, and Minhaz~Fahim Zibran.
+\newblock Claim vs. capability: A comparative analysis of the {SBOM} generation
+  tools for rust projects.
+\newblock In {\em Proceedings of the 40th ACM/SIGAPP Symposium on Applied
+  Computing (SAC)}, 2025.
+
+\bibitem{ruohonen2025gdpr}
+Janne Ruohonen et~al.
+\newblock A mapping analysis of requirements between the {CRA} and the {GDPR}.
+\newblock In {\em Proceedings of the Requirements Engineering Workshop (REW),
+  co-located with RE 2025}, 2025.
+
+\bibitem{ruohonen2025timmers}
+Janne Ruohonen and Kalle Timmers.
+\newblock Vulnerability coordination under the cyber resilience act.
+\newblock Proceedings of the Asia Conference on Information and Communication
+  Security Workshops (ACIG) / arXiv preprint, 2025.
+
+\bibitem{seiplugfest2025}
+{SEI Plugfest Team (Tobar et al.)}.
+\newblock Software bill of materials ({SBOM}) harmonization plugfest 2024.
+\newblock Technical Report CMU/SEI-2025-SR-002, Carnegie Mellon University
+  Software Engineering Institute, 2025.
+\newblock DOI: 10.1184/R1/28893080.
+
+\bibitem{soeiro2025}
+Ricardo Soeiro et~al.
+\newblock Wild {SBOM}s: A large-scale dataset of real-world software bills of
+  materials.
+\newblock In {\em Proceedings of the 22nd International Conference on Mining
+  Software Repositories (MSR)}. IEEE, 2025.
+
+\bibitem{stalnaker2024}
+Trevor Stalnaker, Nathan Wintersgill, Oscar Chaparro, Massimiliano Di~Penta,
+  Daniel~M. German, and Denys Poshyvanyk.
+\newblock {BOM}s away! inside the minds of stakeholders: A comprehensive study
+  of bills of materials for software systems.
+\newblock In {\em Proceedings of the 46th IEEE/ACM International Conference on
+  Software Engineering (ICSE)}, pages 1--13, 2024.
+
+\bibitem{wang2026}
+Ying Wang et~al.
+\newblock An empirical study of adherence to software bill of materials
+  standards.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2026.
+\newblock To appear.
+
+\bibitem{wu2025}
+Yi~Wu et~al.
+\newblock A benchmark study of {SBOM} generation tools for java projects.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2025.
+\newblock To appear.
+
+\bibitem{xia2023}
+Tingting Xia, Tingting Bi, Tommi Mikkonen, and Shinichi Ogata.
+\newblock An empirical study on software bill of materials: Where we stand and
+  the road ahead.
+\newblock In {\em Proceedings of the 45th International Conference on Software
+  Engineering (ICSE)}, pages 2630--2642. IEEE, 2023.
+
+\bibitem{jbomaudit}
+Yue Xiao, Dhilung Kirat, Douglas~Lee Schales, Jiyong Jang, Luyi Xing, and
+  Xiaojing Liao.
+\newblock {JBomAudit}: Assessing the landscape, compliance, and security
+  implications of java {SBOM}s.
+\newblock In {\em Network and Distributed System Security (NDSS) Symposium},
+  2025.
+
+\bibitem{yu2024}
+Sheng Yu, Wei Song, Xunchao Hu, and Heng Yin.
+\newblock On the correctness of metadata-based {SBOM} generation: A
+  differential analysis approach.
+\newblock In {\em 2024 54th Annual IEEE/IFIP International Conference on
+  Dependable Systems and Networks (DSN)}. IEEE, 2024.
+
+\bibitem{zhang2026}
+Tianyu Zhang, Wenrui Lyu, and Hassan~Habibi Gharakheili.
+\newblock A survey on mapping digital systems with bill of materials:
+  Development, practices, and challenges.
+\newblock {\em arXiv preprint arXiv:2601.11678}, 2026.
+
+\end{thebibliography}

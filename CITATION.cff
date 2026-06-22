@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: software
+title: "Are Real-World SBOMs Ready for the EU Cyber Resilience Act? A Large-Scale Empirical Study of CRA Annex I Compliance Across 5,000 Software Bills of Materials"
+authors:
+  - family-names: Kanapuram
+    given-names: Hrishikesh
+date-released: 2026-06-22
+url: "https://github.com/HrishiK1107/sbom-cra-readiness-study"
+license: MIT

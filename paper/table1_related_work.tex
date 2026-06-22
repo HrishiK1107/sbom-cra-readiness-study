@@ -1,0 +1,37 @@
+\begin{table}[t]
+\centering
+\caption{Prior empirical SBOM-quality studies and CRA-relevant regulatory analyses. No prior study uses CRA Annex I as the measurement benchmark against an SBOM corpus.}
+\label{tab:related-work}
+\footnotesize
+\begin{tabular}{p{0.04\textwidth}p{0.30\textwidth}p{0.32\textwidth}p{0.24\textwidth}}
+\toprule
+\# & Reference & Benchmark used & CRA role \\
+\midrule
+P1  & Xia et al., ICSE 2023 \cite{xia2023} & NTIA (citation only) & --- \\
+P2  & Wang et al., TOSEM 2026 \cite{wang2026} & SPDX/CycloneDX spec adherence + NTIA policy compliance & Cited as context \\
+P3  & Novikov et al., PROFES 2025 \cite{novikov2025} & Generic (sbomqs) & Cited as context \\
+P4  & Muneza et al., SANER-C 2025 \cite{muneza2025} & NTIA Minimum Elements & --- \\
+P5  & Wu et al., TOSEM 2025 \cite{wu2025} & NTIA + CRA-informed framing & Requirements framing \\
+P6  & O'Donoghue et al., SCORED@CCS 2024 \cite{odonoghue2024} & None (vuln.\ detection impact) & --- \\
+P7  & Corti et al., REW@ESPRE 2025 \cite{corti2025} & CRA + NIS2 (verbatim, qualitative) & Direct, no corpus \\
+P8  & Soeiro et al., MSR 2025 \cite{soeiro2025} & Generic (sbomqs) & Cited as context; source of our corpus \\
+P9  & Nocera et al., JSS 2025 \cite{nocera2025jss} & NTIA min + recommended & Cited as context \\
+P10 & Stalnaker et al., ICSE 2024 \cite{stalnaker2024} & Survey (5 stakeholder groups) & Implicit -- regulatory pressure discussed \\
+P11 & Xiao et al.\ (JBomAudit), NDSS 2025 \cite{jbomaudit} & NTIA accuracy + completeness (binary-level) & --- \\
+P12 & Yu et al., DSN 2024 \cite{yu2024} & Differential tool-output analysis & --- \\
+P13 & Churakova et al., arXiv 2025 \cite{churakova2025} & Jaccard/Tversky tool consistency & --- \\
+P14 & Rabbi et al., SAC 2025 \cite{rabbi2025} & Precision/recall vs.\ ground truth & --- \\
+P15 & Bi et al., TOSEM 2024 \cite{bi2024} & Mining GitHub discussions & --- \\
+P16 & Ruohonen \& Timmers, ACIG 2025 \cite{ruohonen2025timmers} & CRA vulnerability-coordination analysis & Direct -- full analysis \\
+P17 & Ruohonen et al., REW@RE 2025 \cite{ruohonen2025gdpr} & CRA + GDPR requirements mapping & Direct -- full CRA requirements enumeration \\
+P18 & O'Donoghue et al., SLR 2025 \cite{odonoghue2025slr} & SLR of 40 SBOM studies & Cited as context \\
+P19 & Bangash et al., arXiv 2025/26 \cite{bangash2026} & Ecosystem comparison (170 tools) & --- \\
+P20 & Halbritter \& Merli, ARES 2024 \cite{halbritter2024} & NTIA accuracy across 4 languages & EU mentioned as motivation \\
+P21 & Dagstuhl Seminar 24112 \cite{dagstuhl2024} & Expert seminar; no corpus & Direct -- full CRA framing \\
+P22 & BSI TR-03183-2 v2.1.0 \cite{bsi2025} & Normative CRA SBOM field requirements & Direct implementation \\
+P23 & SEI Plugfest Team, CMU/SEI SR-002 2025 \cite{seiplugfest2025} & Multi-tool comparison (170+ SBOMs) & Cited as context \\
+P24 & Zhang et al., arXiv 2026 \cite{zhang2026} & Cross-domain BOM survey & Cited as context \\
+P25 & CISA, draft 2025 \cite{cisa2025} & Updated NTIA minimum elements (draft) & Direct -- updates NTIA baseline \\
+\bottomrule
+\end{tabular}
+\end{table}
