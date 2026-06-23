@@ -13,7 +13,7 @@ This repository contains all implementation code, merged results, and the corpus
 
 > *"Are Real-World SBOMs Ready for the EU Cyber Resilience Act? A Large-Scale Empirical Study of CRA Annex I Compliance Across 5,000 Software Bills of Materials"*
 
-We evaluated 5,000 SBOMs drawn from the [Wild SBOMs dataset](https://github.com/chains-project/sbom-files) (Soeiro et al., MSR 2025) against a 19-check taxonomy spanning NTIA-equivalent requirements, CRA Annex I provisions, general SBOM quality, and conditional vulnerability checks.
+We evaluated 5,000 SBOMs drawn from the [Wild SBOMs dataset](https://arxiv.org/abs/2503.15021) (Soeiro et al., MSR 2025) against a 19-check taxonomy spanning NTIA-equivalent requirements, CRA Annex I provisions, general SBOM quality, and conditional vulnerability checks.
 
 ### Headline Findings
 
